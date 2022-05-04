@@ -15,7 +15,7 @@ An ecommerce store built with MERN stack, and utilizes third party API's. This e
   * Mongoose schemas to model the application data
   * React for displaying UI components
 
-## Note 
+## Note  
 
   * This repo is just frontend of website. You need backend also. Go here for backend -> https://github.com/HeT-Delwadiya/PC-Parts-E-commerce-Website-Backend.
 
